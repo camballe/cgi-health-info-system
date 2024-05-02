@@ -59,7 +59,7 @@ print("""
         <ul class="nav-links">
           <li><a href="/">Home</a></li>
           <li><a href="/registration.html">Registration</a></li>
-          <li><a href="/records.php">Records</a></li>
+          <li><a href="/cgi-bin/records.py">Records</a></li>
           <li><a href="/about-us.html">About Us</a></li>
           <li><a href="/contacts.html">Contacts</a></li>
         </ul>
@@ -69,7 +69,7 @@ print("""
       <aside class="sidebar">
         <ul class="sidebar-links">
           <li><a href="/registration.html">Registration</a></li>
-          <li><a href="/records.php">Records</a></li>
+          <li><a href="/cgi-bin/records.py">Records</a></li>
         </ul>
       </aside>
       <section class="main-content">
